@@ -1,6 +1,6 @@
 # Ex--6-AWS-Account-setup-and-S3-creation-
-NAME:APARNA.M
-REG NO: 212223220008
+NAME:FFARHANA H
+REG NO: 212223220057
 
 # Introduction
 
